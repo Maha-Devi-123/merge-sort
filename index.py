@@ -1,3 +1,4 @@
+#Merge Sort Algorithm 
 li=[10,2,9,5,3,7,6,8,1,4] 
 def MergeSort(li):
     if len(li)>1:
